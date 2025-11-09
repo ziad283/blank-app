@@ -3,3 +3,12 @@ pandas
 requests
 lxml
 html5lib
+cdsapi
+numpy
+plotly
+xarray
+netCDF4
+h5netcdf
+scipy
+matplotlib
+seaborn
